@@ -1,0 +1,61 @@
+@media(max-width: 768px){
+  .header{
+ 
+    display: flex;
+    flex-direction: column;
+    width: 310px;
+    height: 220px;
+    
+    margin: 20px auto auto auto;
+    border-radius: 8px 8px 0 0;
+  }
+
+
+  .information-header{
+    font-size: 16px;
+  }
+
+  .paragraph-header{
+    width: 280px;
+    font-size: 14px;
+    padding: 10px;
+   
+  }
+
+  .container-information-plan{
+     display: flex;
+    flex-direction: column; 
+  }
+
+  .sign-up{
+    width: 350px;
+    height: 220px;
+    margin: auto;
+  }
+
+  .title-monthly{
+    
+    margin-left: -80px;
+  }
+
+  .price-monthly{
+    margin-left: -160px;
+  }
+
+  .paragraph-monthly{
+    margin-left: -60px;
+  }
+  .button{
+    width: 280px;
+   height: 40px;
+   margin-left: -20px;
+  }
+
+  .about{
+    width: 350px;
+    height: 220px;
+   margin: -20px auto auto auto;
+  }
+
+
+}
